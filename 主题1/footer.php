@@ -19,9 +19,6 @@
   <a class="theme-link" href="https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=co9tkat5&utm_source=co9tkat5">
     阿里云
   </a>
-</div><br>
-<div class="theme-info"><a href="http://www.miitbeian.gov.cn/" target="_blank">滇ICP备17003884号
-</a>
 </div>
        </div>
 </footer>
