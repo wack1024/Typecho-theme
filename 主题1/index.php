@@ -1,13 +1,4 @@
 <?php
-/**
- * 移植Hexo主题Next.Mist
- * 
- * @package Next.Mist
- * @author zgq354
- * @version 1.2.6
- * @link http://blog.izgq.net/archives/444/
- */
-
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  $this->need('header.php');
  ?>
